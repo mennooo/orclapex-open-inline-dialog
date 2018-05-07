@@ -25,7 +25,7 @@
     "apex" : {
       "versions" : ["5.1.0", "18.1.0"],
       "plugin" : {
-        "internalName" : "MHO.REDIRECT",
+        "internalName" : "MHO.OPEN_INLINE_DIALOG",
         "type" : "dynamic action",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=115922:14",
         "previewImage" : "https://raw.githubusercontent.com/mennooo/orclapex-open-inline-dialog/master/preview.gif"
